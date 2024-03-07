@@ -1,3 +1,3 @@
 # Twitter Cloning App
 
-<h2>tweec</h2>
+<h2>twieec</h2>
