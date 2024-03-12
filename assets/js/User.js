@@ -15,14 +15,12 @@ class User {
     return this._users;
   }
 
-  saveUser() {
+  saveUser(userData) {
+    // Melakukan proses validasi (dengan memecah data)
+    const { name, username, avatar, password } = userData;
 
+    console.log(name);
   }
 
-  userSignIn() {
-    
-  }
-
+  userSignIn() {}
 }
-
-
