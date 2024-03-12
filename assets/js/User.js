@@ -14,4 +14,15 @@ class User {
     }
     return this._users;
   }
+
+  saveUser() {
+
+  }
+
+  userSignIn() {
+    
+  }
+
 }
+
+
